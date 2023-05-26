@@ -16,12 +16,7 @@
 
 <br>
 
-- A passionate Front-end developer
-- Big fan of anime😁
-- Currently learning Web Development by Self
-- Personal website [link](https://www.nkosi.dev)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
+- A passionate Front-end developer from Mpumalanga, South Africa
 <br><br>
 
 -----
